@@ -1,5 +1,7 @@
 # ContactBook C# App + RESTful API
 
+Just for practice Purpose 
+
 Summary: ContactBook allows users to manage their own contact book! Create, edit, and delete contacts into your contact book. Fill in names, email, phone number and info and build your very own contact list!
 
 - Target platform: .NET 6
